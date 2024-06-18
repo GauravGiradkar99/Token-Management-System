@@ -1,0 +1,15 @@
+E:\GitHubProjects\Token Management System\Token Management System\bin\Debug\net6.0\Token Management System.exe
+E:\GitHubProjects\Token Management System\Token Management System\bin\Debug\net6.0\Token Management System.deps.json
+E:\GitHubProjects\Token Management System\Token Management System\bin\Debug\net6.0\Token Management System.runtimeconfig.json
+E:\GitHubProjects\Token Management System\Token Management System\bin\Debug\net6.0\Token Management System.dll
+E:\GitHubProjects\Token Management System\Token Management System\bin\Debug\net6.0\Token Management System.pdb
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.csproj.AssemblyReference.cache
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.AssemblyInfoInputs.cache
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.AssemblyInfo.cs
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.dll
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\refint\Token Management System.dll
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.pdb
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\Token Management System.genruntimeconfig.cache
+E:\GitHubProjects\Token Management System\Token Management System\obj\Debug\net6.0\ref\Token Management System.dll
